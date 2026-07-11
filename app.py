@@ -218,7 +218,12 @@ if st.button("🛡️ Detect Intrusion", use_container_width=True):
             "Risk": risk,
             "Confidence": f"{confidence:.2f}%"
         })
+st.sidebar.markdown("### 🔗 Quick Links")
 
+st.sidebar.link_button(
+    "💻 GitHub Repository",
+    "https://github.com/YOUR_USERNAME/Network-Intrusion-Detection-System"
+)
 st.sidebar.title("📌 Project Information")
 
 st.sidebar.info("""
@@ -250,13 +255,6 @@ st.sidebar.info("""
 """)
 
 st.sidebar.markdown("---")
-st.sidebar.subheader("🔗 Quick Links")
-
-st.sidebar.link_button(
-    "💻 GitHub Repository",
-    "https://github.com/trexop2006/Network-Intrusion-Detection-System"
-)
-
 st.markdown("---")
 st.subheader("📊 Prediction History")
 st.markdown("---")
