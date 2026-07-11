@@ -222,7 +222,7 @@ st.sidebar.markdown("### 🔗 Quick Links")
 
 st.sidebar.link_button(
     "💻 GitHub Repository",
-    "https://github.com/YOUR_USERNAME/Network-Intrusion-Detection-System"
+    "https://github.com/trexop2006/Network-Intrusion-Detection-System"
 )
 st.sidebar.title("📌 Project Information")
 
