@@ -243,6 +243,22 @@ st.sidebar.info("""
 **👨‍💻 Developer**
 - Hardik Chaturvedi
 """)
+st.sidebar.info("""
+...
+👨‍💻 Developer
+- Hardik Chaturvedi
+""")
+
+st.sidebar.markdown("---")
+st.sidebar.subheader("🔗 Quick Links")
+
+st.sidebar.link_button(
+    "💻 GitHub Repository",
+    "https://github.com/trexop2006/Network-Intrusion-Detection-System"
+)
+
+st.markdown("---")
+st.subheader("📊 Prediction History")
 st.markdown("---")
 
 st.subheader("📊 Prediction History")
