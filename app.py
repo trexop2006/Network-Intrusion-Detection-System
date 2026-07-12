@@ -246,7 +246,7 @@ st.sidebar.info("""
 - Cyber Security
 
 **👨‍💻 Developers**
-- Hardik Chaturvedi & Yashika Vij
+-Hardik Chaturvedi & Yashika Vij
 """)
 
 st.sidebar.markdown("---")
