@@ -245,13 +245,8 @@ st.sidebar.info("""
 - Machine Learning
 - Cyber Security
 
-**👨‍💻 Developer**
-- Hardik Chaturvedi
-""")
-st.sidebar.info("""
-...
-👨‍💻 Developer
-- Hardik Chaturvedi
+**👨‍💻 Developers**
+- Hardik Chaturvedi & Yashika Vij
 """)
 
 st.sidebar.markdown("---")
