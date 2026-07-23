@@ -246,7 +246,7 @@ st.sidebar.info("""
 - Cyber Security
 
 **👨‍💻 Developers**
--Hardik Chaturvedi & Yashika Vij
+-Hardik Chaturvedi
 """)
 
 st.sidebar.markdown("---")
@@ -266,5 +266,5 @@ else:
 st.markdown("---")
 st.sidebar.success("🟢 System Ready")
 
-st.caption("🛡️ Network Intrusion Detection System | Developed by Hardik Chaturvedi & Yashika Vij | © 2026")
+st.caption("🛡️ Network Intrusion Detection System | Developed by Hardik Chaturvedi | © 2026")
     
